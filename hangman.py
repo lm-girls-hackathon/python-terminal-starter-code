@@ -19,3 +19,4 @@ while "".join(guess) != WORD:
 
 # TODO: make a message congratulating the player if they win
 # TODO: make a loop that lets users play another game
+# TODO: draw a hangman figure using keyboard characters
