@@ -1,5 +1,6 @@
 #add school name, group number, and individual names
 
+#this method plays the game 
 def play_game():
     word = input("enter the word")
     guess = ["_" for _ in range(len(word))]  # create list of characters which represents the word
